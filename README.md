@@ -1,4 +1,4 @@
-# meta-HybridSurvivor
+# HybridSurvivor
 
 Course Capita Selecta Human Computer Interaction and Multimedia: Game Design: Hybrid Survivor
 
@@ -13,7 +13,7 @@ Course Capita Selecta Human Computer Interaction and Multimedia: Game Design: Hy
 A hybrid (i.e. analogue and digital component) game using Unity3D and the Oculus Rift for 2 players.
 
 ## Versions
-* [Oculus Rift](https://github.com/matt77hias/HybridSurvivor) (DK1)
+* [Oculus Rift](https://github.com/matt77hias/HybridSurvivor-OculusRift) (DK1)
 * [PC + Web](https://github.com/matt77hias/HybridSurvivor-PC)
 * [HTC Vive](https://github.com/matt77hias/HybridSurvivor-HTCVive)
 
