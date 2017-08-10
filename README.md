@@ -25,10 +25,15 @@ Unfortunately, it is very dark inside the maze and the survivor has only a limit
 Oh one small detail I forgot mentioning: *Do not look into his eyes...*
 
 ## Use
-<p align="center"><img src="https://github.com/matt77hias/meta-HybridSurvivor/blob/master/Mazes/Hybrid%20Survivor_Easy.jpg" width="431"> <img src="https://github.com/matt77hias/meta-HybridSurvivor/blob/master/Mazes/Hybrid%20Survivor_Pro.jpg" width="431"></p>
+<p align="center">
+<img src="Mazes/Hybrid%20Survivor_Easy.jpg" width="430">
+<img src="Mazes/Hybrid%20Survivor_Pro.jpg" width="430">
+</p>
 <p align="center">Easy map - Hard map</p>
 
-<p align="center"><img src="https://github.com/matt77hias/meta-HybridSurvivor/blob/master/Story/Example.png" ></p>
+<p align="center">
+<img src="Story/Example.png" >
+</p>
 <p align="center">Survivor (player 1) - Guide (player 2)</p>
 
 **Recommended**:
