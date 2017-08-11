@@ -1,4 +1,4 @@
-<img align="left" src="res/HybridSurvivor.png" width="120px"/>
+<img align="left" src="HybridSurvivor.png" width="120px"/>
 
 [![License][s1]][li]
 
