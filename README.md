@@ -22,7 +22,6 @@ A hybrid (i.e. analogue and digital component) game using Unity3D and the Oculus
 ## Versions
 * [Oculus Rift](https://github.com/matt77hias/HybridSurvivor-OculusRift) (DK1)
 * [PC + Web](https://github.com/matt77hias/HybridSurvivor-PC)
-* [HTC Vive](https://github.com/matt77hias/HybridSurvivor-HTCVive)
 
 ## Story
 You are both treasure hunters looking for the 'black panther' diamond which is located inside a crypt of a garden maze. One player, the *survivor*, is dropped in the garden maze with a parachute. The other player, the *guide*, has access to a map of the garden maze. The map contains some landmarks as well as the location of three keys needed to open the crypt. Both players can communicate over a noisy radio channel to synchronize the survivor's location. 
